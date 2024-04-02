@@ -1,4 +1,4 @@
-# Delivery Rider Incentive Processing Microservice Project
+# Delivery Rider Incentive Procesor - Microservice
 
 ## Project Overview
 
